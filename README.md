@@ -22,8 +22,7 @@ Thank you for being part of this small but powerful community that values privac
 
 * **with crypto money:**
 
-bitcoin:bc1q0wzwp7cta5pgmuaq46nkpjha0axkcx5yfkvmfmwm8ng2yewuprlq8sp6m5?label=donation&message=Thank_You_for_Your_Support
-    copy:
+    + bitcoin:
 ```
 bc1q0wzwp7cta5pgmuaq46nkpjha0axkcx5yfkvmfmwm8ng2yewuprlq8sp6m5
 ```
