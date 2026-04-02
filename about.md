@@ -53,7 +53,8 @@ In summary:
 Buy me this wine so that I can continue writing those lines that protect your privacy with a fresher mind the next morning. To my health and the future of code, cheers!
 
 * **with Bank:**
-    + EURO İş Bankası IBAN: TR260006400000245090385565 SWIFT code: ISBKTRIS
+
+    + EU € İş Bankası IBAN: TR260006400000245090385565 SWIFT code: ISBKTRIS
     + us $ İş bankası IBAN: TR170006400000245090279221 SWIFT code: ISBKTRIS
   
 Thank You for Your Support
