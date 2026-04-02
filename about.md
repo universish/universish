@@ -22,8 +22,7 @@ Thank you for being part of this small but powerful community that values privac
 
 * **with crypto money:**
 
-bitcoin:bc1q0wzwp7cta5pgmuaq46nkpjha0axkcx5yfkvmfmwm8ng2yewuprlq8sp6m5?label=donation&message=Thank_You_for_Your_Support
-    copy:
+bitcoin:
 ```
 bc1q0wzwp7cta5pgmuaq46nkpjha0axkcx5yfkvmfmwm8ng2yewuprlq8sp6m5
 ```
@@ -37,17 +36,11 @@ bc1q0wzwp7cta5pgmuaq46nkpjha0axkcx5yfkvmfmwm8ng2yewuprlq8sp6m5
 **Level Name**: `System.shutdown()` - Anatolian(ΑΝΑΔΟΛΟΣ) Style Reset
 
 **Description**: You know, the `while(!sleeping)` loop can't go on forever!
-
 Coffee is a programmer's “runtime” fuel; it keeps the system up and the code flowing. But for quality code, a quality “Shutdown” process is also essential. If I don't sleep, those clean, ad-free, and viewer-free applications can turn into zombies!
-
 It's in your hands to save me from days of zombie-like coding at the computer. This level allows me to end the day peacefully with that beautiful Kuzudağ Kalecik Karası (75cl) wine from the vineyards of Anatolia, “reset” my brain, and wake up healthy the next day.
-
 In summary:
-
 ☕ Coffee: Makes you write code.
-
 🍷 Wine: Puts you to sleep.
-
 🛌 Sleep: Keeps the coder alive (and healthy).
 
 Buy me this wine so that I can continue writing those lines that protect your privacy with a fresher mind the next morning. To my health and the future of code, cheers!
@@ -57,4 +50,4 @@ Buy me this wine so that I can continue writing those lines that protect your pr
     + EU € İş Bankası IBAN: TR260006400000245090385565 SWIFT code: ISBKTRIS
     + us $ İş bankası IBAN: TR170006400000245090279221 SWIFT code: ISBKTRIS
   
-Thank You for Your Support
+# **Thank You for Your Support**
