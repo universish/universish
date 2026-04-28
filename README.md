@@ -27,7 +27,7 @@ Thank you for being part of this small but powerful community that values privac
 bc1q0wzwp7cta5pgmuaq46nkpjha0axkcx5yfkvmfmwm8ng2yewuprlq8sp6m5
 ```
 
-* **with KREOSUS:**
+* **with KREOSUS:** https://kreosus.com/universish/
 
   The use of PayPal, Ko-fi, Wise, Liberapay, BuyMeACoffee, GitHub Sponsors, and Stripe (etc.) is indirectly prohibited in our country.
 
