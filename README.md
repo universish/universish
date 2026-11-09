@@ -2,6 +2,8 @@
 
 Hello Open Source Friends,
 
+> **Contributed ideas to E-Clutch E-Compressor Y-AMT tech.s & contributed ideas to SV7-GX SV-7S GSX10R ideas**
+
 Tired of data mining apps? You've come to the right place. I find and test FLOSS (Free/Libre Open Source Software) alternatives to popular and insecure apps. My goal is to help everyone protect their digital privacy, regardless of their technical knowledge.
 
 What Will You Gain as a Patreon Supporter?
